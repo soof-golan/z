@@ -9,6 +9,7 @@ packages = [{ include = "z" }]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
+pytest = "^7.4.2"
 
 
 [tool.poetry.group.dev.dependencies]
